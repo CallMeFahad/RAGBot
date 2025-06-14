@@ -8,3 +8,6 @@ python-dotenv
 faiss-cpu
 PyPDF2
 tiktoken
+transformers
+sentence-transformers
+torch
