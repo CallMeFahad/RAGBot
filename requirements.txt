@@ -4,7 +4,7 @@ langchain_community
 langchain_huggingface
 openai
 python-dotenv
-python-dotenv
+pypdf
 faiss-cpu
 PyPDF2
 tiktoken
